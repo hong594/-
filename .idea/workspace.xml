@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fbc59656-12b7-40f4-8fef-ac2485530653" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/mybatis_0223/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis_0223/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis_0223/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis_0223/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis_0223/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis_0223/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis_0223/src/main/java/com/qs/mybatis_0223/Mybatis0223Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis_0223/src/main/java/com/qs/mybatis_0223/ServletInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis_0223/src/main/java/com/qs/mybatis_0223/configs/MybatisPlusConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis_0223/src/main/java/com/qs/mybatis_0223/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis_0223/src/main/java/com/qs/mybatis_0223/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis_0223/src/main/java/com/qs/mybatis_0223/entity/ResponseResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis_0223/src/main/java/com/qs/mybatis_0223/entity/ResponseStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis_0223/src/main/java/com/qs/mybatis_0223/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis_0223/src/main/java/com/qs/mybatis_0223/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis_0223/src/main/java/com/qs/mybatis_0223/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis_0223/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis_0223/src/test/java/com/qs/mybatis_0223/Mybatis0223ApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/java/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="D:\java\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2M7nofJwp6LsDgJ2lldTHhRNBNz" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\23145\Desktop\cooperat-zxy" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="cooperat-zxy" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="cooperat-zxy" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Mybatis0223Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mybatis_0223" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qs.mybatis_0223.Mybatis0223Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fbc59656-12b7-40f4-8fef-ac2485530653" name="Default Changelist" comment="" />
+      <created>1677127664103</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677127664103</updated>
+      <workItem from="1677127665770" duration="313000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="553" y="109" key="FileChooserDialogImpl" timestamp="1677127968742">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="553" y="109" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1677127968742" />
+    <state x="450" y="118" key="NewModule_or_Project.wizard" timestamp="1677127946256">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="450" y="118" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1677127946256" />
+    <state x="253" y="0" key="SettingsEditor" timestamp="1677127956552">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="253" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1677127956552" />
+    <state x="182" y="74" key="new project wizard" timestamp="1677127926523">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="182" y="74" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1677127926523" />
+  </component>
+</project>
